@@ -1,2 +1,2 @@
-# nynikaa
+# suji
 this is for repository
